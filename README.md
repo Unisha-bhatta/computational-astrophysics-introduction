@@ -32,6 +32,10 @@ Initial velocity: (0, 10)
 
 Time step: 0.001
 
+## Simulation Output
+
+![Planetary Orbit Simulation](Planetary_orbit_simulation.png)
+
 ## Files
 Planetary_orbit_simulation.ipynb — simulation notebook
 

@@ -21,6 +21,7 @@ Jupyter Notebook
 This project demonstrates a simple two-body gravitational simulation in which a planet orbits a central star. The motion is calculated numerically using the Velocity Verlet integration method. 
 
 The simulation uses:
+
 Gravitational constant: G = 1
 
 Star mass: M = 100

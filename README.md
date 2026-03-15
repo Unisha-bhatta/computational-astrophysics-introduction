@@ -32,7 +32,8 @@ Initial velocity: (0, 10)
 
 Time step: 0.001
 
-## Simulation Output
+## Simulation Output 
+### Two Object Simulation
 
 ![Planetary Orbit Simulation](Planetary_orbit_simulation.png)
 

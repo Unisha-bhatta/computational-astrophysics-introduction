@@ -4,7 +4,7 @@ This repository contains a beginner-friendly mini project on computational astro
 ## Project Contents
 Article: A short research-style write-up explaining the role of computational methods in astrophysics
 
-Jupyter Notebook: Python simulation of a planet orbiting a star
+Jupyter Notebook: Python simulation of planets orbiting a star
 
 Orbit Plot: Visualization generated from the simulation
 

@@ -37,6 +37,8 @@ Time step: 0.001
 
 ![Planetary Orbit Simulation](Planetary_orbit_simulation.png)
 
+### Three Object Simulation
+
 ## Files
 Planetary_orbit_simulation.ipynb — simulation notebook
 

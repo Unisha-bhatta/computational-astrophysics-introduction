@@ -6,7 +6,7 @@ The notebook includes:
 
 - Two-body orbital simulation
 - Comparison of numerical integration methods
-- Three-body figure-8 simulation
+- Three-body figure simulation
 
 The project focuses on how numerical methods influence orbital stability and simulation accuracy.
 
@@ -24,8 +24,8 @@ Comparison between:
 
 to observe differences in orbital stability.
 
-### Three-Body Figure-8 Orbit
-Simulation of a special three-body gravitational orbit where all bodies follow a repeating figure-8 trajectory.
+### Three-Body Figure Orbit
+Simulation of a special three-body gravitational orbit where all bodies follow a repeating figure trajectory.
 
 ---
 

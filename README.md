@@ -1,50 +1,72 @@
-# Computational Methods in Astrophysics: A Beginner’s Introduction
-This repository contains a beginner-friendly mini project on computational astrophysics. It introduces how numerical methods can be used to simulate planetary motion under gravity.
+# Computational Astrophysics Simulations
 
-## Project Contents
-Article: A short research-style write-up explaining the role of computational methods in astrophysics
+This project explores how computational methods can be used to simulate gravitational systems in astrophysics using Python.
 
-Jupyter Notebook: Python simulation of planets orbiting a star
+The notebook includes:
 
-Orbit Plot: Visualization generated from the simulation
+- Two-body orbital simulation
+- Comparison of numerical integration methods
+- Three-body figure-8 simulation
 
-## Tools Used
-Python
+The project focuses on how numerical methods influence orbital stability and simulation accuracy.
 
-NumPy
+---
 
-Matplotlib
+## Topics Explored
 
-Jupyter Notebook
+### Two-Body Orbit Simulation
+A planet orbiting a central star using Newtonian gravity.
 
-## Project Overview
-This project demonstrates a simple two-body gravitational simulation in which a planet orbits a central star. The motion is calculated numerically using the Velocity Verlet integration method. 
+### Numerical Method Comparison
+Comparison between:
+- Euler Method
+- Velocity Verlet Method
 
-The simulation uses:
+to observe differences in orbital stability.
 
-Gravitational constant: G = 1
+### Three-Body Figure-8 Orbit
+Simulation of a special three-body gravitational orbit where all bodies follow a repeating figure-8 trajectory.
 
-Star mass: M = 100
+---
 
-Initial position: (1, 0)
+## Technologies Used
 
-Initial velocity: (0, 10)
+- Python
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
-Time step: 0.001
+---
 
-## Simulation Output 
-### Two Object Simulation
+## Visualizations
 
-![Planetary Orbit Simulation](Planetary_orbit_simulation.png)
+### Two-Body Orbit
+![Orbit](two_body_orbit.png)
 
-### Three Object Simulation
+### Numerical Method Comparison
+![Comparison](integrator_comparison.png)
 
-## Files
-Planetary_orbit_simulation.ipynb — simulation notebook
+### Three-Body Figure Orbit
+![Figure8](figure_orbit.png)
 
-Planetary_orbit_simulation.png — orbit plot
+---
 
-Computational_methods_in_astrophysics_article.pdf — article document
+## Running the Project
 
-## Key Learning Outcome
-This project helped me explore how physics, mathematics, and programming can be combined to model astrophysical systems computationally.
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+Open the notebook:
+
+```bash
+jupyter notebook orbital_simulations.ipynb
+```
+
+---
+
+## Learning Outcome
+
+This project helped me understand how computational methods are used to model gravitational systems and how numerical integration methods affect simulation stability and accuracy.

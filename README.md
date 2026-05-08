@@ -47,7 +47,7 @@ Simulation of a special three-body gravitational orbit where all bodies follow a
 ![Comparison](integrator_comparison.png)
 
 ### Three-Body Figure Orbit
-![Figure8](figure_orbit.png)
+![Figure](figure_orbit.png)
 
 ---
 
